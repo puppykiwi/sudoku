@@ -96,3 +96,4 @@ enum class GameState {
 };
 
 } // namespace sudoku
+

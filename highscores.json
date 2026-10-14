@@ -1,0 +1,83 @@
+[
+  {
+    "player_name": "Bob",
+    "difficulty": "Expert",
+    "score": 8900,
+    "time_seconds": 240,
+    "mistakes": 0,
+    "hints_used": 0,
+    "date_str": "2026-10-14 06:15"
+  },
+  {
+    "player_name": "Bob",
+    "difficulty": "Expert",
+    "score": 8900,
+    "time_seconds": 240,
+    "mistakes": 0,
+    "hints_used": 0,
+    "date_str": "2026-10-14 06:15"
+  },
+  {
+    "player_name": "Bob",
+    "difficulty": "Expert",
+    "score": 8900,
+    "time_seconds": 240,
+    "mistakes": 0,
+    "hints_used": 0,
+    "date_str": "2026-10-14 06:15"
+  },
+  {
+    "player_name": "Alice",
+    "difficulty": "Hard",
+    "score": 5200,
+    "time_seconds": 180,
+    "mistakes": 1,
+    "hints_used": 0,
+    "date_str": "2026-10-14 06:00"
+  },
+  {
+    "player_name": "Alice",
+    "difficulty": "Hard",
+    "score": 5200,
+    "time_seconds": 180,
+    "mistakes": 1,
+    "hints_used": 0,
+    "date_str": "2026-10-14 06:00"
+  },
+  {
+    "player_name": "Alice",
+    "difficulty": "Hard",
+    "score": 5200,
+    "time_seconds": 180,
+    "mistakes": 1,
+    "hints_used": 0,
+    "date_str": "2026-10-14 06:00"
+  },
+  {
+    "player_name": "Charlie",
+    "difficulty": "Easy",
+    "score": 2100,
+    "time_seconds": 90,
+    "mistakes": 0,
+    "hints_used": 1,
+    "date_str": "2026-10-14 06:30"
+  },
+  {
+    "player_name": "Charlie",
+    "difficulty": "Easy",
+    "score": 2100,
+    "time_seconds": 90,
+    "mistakes": 0,
+    "hints_used": 1,
+    "date_str": "2026-10-14 06:30"
+  },
+  {
+    "player_name": "Charlie",
+    "difficulty": "Easy",
+    "score": 2100,
+    "time_seconds": 90,
+    "mistakes": 0,
+    "hints_used": 1,
+    "date_str": "2026-10-14 06:30"
+  }
+]

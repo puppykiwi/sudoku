@@ -325,3 +325,4 @@ void Board::copy_from(const Board& other) {
 }
 
 } // namespace sudoku
+
